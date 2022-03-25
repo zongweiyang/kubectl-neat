@@ -1,3 +1,5 @@
+# 使用命令：generate-yaml.sh
+
 # kubectl-neat
 
 Remove clutter from Kubernetes manifests to make them more readable.
